@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Ott / GH Shopware - Fix pr title
+// @name         GH Shopware - Fix pr title
 // @namespace    https://www.ottscho-it-service.de/
 // @version      1
 // @description  Add btn to fix pr title
