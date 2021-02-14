@@ -3,7 +3,7 @@
 // @namespace    https://www.ottscho-it-service.de/
 // @version      1
 // @description  Add btn to fix pr title
-// @author       OttschoThomas
+// @author       ThomasLesinski
 // @include      https://github.com/*/compare/*?expand=1
 // @grant        none
 // ==/UserScript==
