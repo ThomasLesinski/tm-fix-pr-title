@@ -1,1 +1,1 @@
-# tm-fix-pr-title
+Tampermonkey 'Fix Pullrequest Title' Script
