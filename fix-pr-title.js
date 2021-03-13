@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         GH Shopware - Fix pr title
+// @name         GitHub Shopware - Fix pr title
 // @namespace    https://www.ottscho-it-service.de/
 // @version      1
 // @description  Add btn to fix pr title
-// @author       ThomasLesinski
+// @author       Thomas Lesinski
 // @include      https://github.com/*/compare/*?expand=1
 // @grant        none
 // ==/UserScript==
@@ -18,7 +18,7 @@
   btnFixPrTitle.classList.add('btn', 'btn-fix-pr-title');
   btnFixPrTitle.innerHTML = 'Fix';
 
-  btnFixPrTitle.addEventListener('click', function() {
+  btnFixPrTitle.addEventListener('click', () => {
     const prTitleText = prTitleInput.value.trim();
     const prTitleTextSplitted = prTitleText.split(' ');
 
