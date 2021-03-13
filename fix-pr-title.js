@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         GitHub Shopware - Fix pr title
+// @name         GitHub - Fix pr title
 // @namespace    https://www.ottscho-it-service.de/
 // @version      1
 // @description  Add btn to fix pr title
